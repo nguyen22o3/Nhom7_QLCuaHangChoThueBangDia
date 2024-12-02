@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42B33008-E5F6-4632-A908-F540878E6C33}|DesktopApss\\DesktopApss.csproj|d:\\bt_qlb\u0103ng \u0111\u0129a\\1\\2\\desktopapss\\desktopapss\\frmad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B33008-E5F6-4632-A908-F540878E6C33}|DesktopApss\\DesktopApss.csproj|solutionrelative:desktopapss\\frmad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B33008-E5F6-4632-A908-F540878E6C33}|DesktopApss\\DesktopApss.csproj|D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\desktopapss\\frmad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42B33008-E5F6-4632-A908-F540878E6C33}|DesktopApss\\DesktopApss.csproj|solutionrelative:desktopapss\\frmad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B33008-E5F6-4632-A908-F540878E6C33}|DesktopApss\\DesktopApss.csproj|D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\desktopapss\\resources\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B33008-E5F6-4632-A908-F540878E6C33}|DesktopApss\\DesktopApss.csproj|solutionrelative:desktopapss\\resources\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B33008-E5F6-4632-A908-F540878E6C33}|DesktopApss\\DesktopApss.csproj|D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\desktopapss\\qu\u1EA3n l\u00FD kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42B33008-E5F6-4632-A908-F540878E6C33}|DesktopApss\\DesktopApss.csproj|solutionrelative:desktopapss\\qu\u1EA3n l\u00FD kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B33008-E5F6-4632-A908-F540878E6C33}|DesktopApss\\DesktopApss.csproj|D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\desktopapss\\qu\u1EA3n l\u00FD kh\u00E1ch h\u00E0ng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42B33008-E5F6-4632-A908-F540878E6C33}|DesktopApss\\DesktopApss.csproj|solutionrelative:desktopapss\\qu\u1EA3n l\u00FD kh\u00E1ch h\u00E0ng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B33008-E5F6-4632-A908-F540878E6C33}|DesktopApss\\DesktopApss.csproj|D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\desktopapss\\frmbangdia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42B33008-E5F6-4632-A908-F540878E6C33}|DesktopApss\\DesktopApss.csproj|solutionrelative:desktopapss\\frmbangdia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B33008-E5F6-4632-A908-F540878E6C33}|DesktopApss\\DesktopApss.csproj|D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\desktopapss\\qu\u1EA3n l\u00FD kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B33008-E5F6-4632-A908-F540878E6C33}|DesktopApss\\DesktopApss.csproj|solutionrelative:desktopapss\\qu\u1EA3n l\u00FD kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B33008-E5F6-4632-A908-F540878E6C33}|DesktopApss\\DesktopApss.csproj|D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\desktopapss\\frmbangdia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B33008-E5F6-4632-A908-F540878E6C33}|DesktopApss\\DesktopApss.csproj|solutionrelative:desktopapss\\frmbangdia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B33008-E5F6-4632-A908-F540878E6C33}|DesktopApss\\DesktopApss.csproj|D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\desktopapss\\chi ti\u1EBFt ho\u00E1 \u0111\u01A1n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42B33008-E5F6-4632-A908-F540878E6C33}|DesktopApss\\DesktopApss.csproj|solutionrelative:desktopapss\\chi ti\u1EBFt ho\u00E1 \u0111\u01A1n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B33008-E5F6-4632-A908-F540878E6C33}|DesktopApss\\DesktopApss.csproj|D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\desktopapss\\chi ti\u1EBFt ho\u00E1 \u0111\u01A1n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B33008-E5F6-4632-A908-F540878E6C33}|DesktopApss\\DesktopApss.csproj|solutionrelative:desktopapss\\chi ti\u1EBFt ho\u00E1 \u0111\u01A1n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B33008-E5F6-4632-A908-F540878E6C33}|DesktopApss\\DesktopApss.csproj|D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\desktopapss\\qu\u1EA3n l\u00FD nh\u00E2n vi\u00EAn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B33008-E5F6-4632-A908-F540878E6C33}|DesktopApss\\DesktopApss.csproj|solutionrelative:desktopapss\\qu\u1EA3n l\u00FD nh\u00E2n vi\u00EAn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B33008-E5F6-4632-A908-F540878E6C33}|DesktopApss\\DesktopApss.csproj|D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\desktopapss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B33008-E5F6-4632-A908-F540878E6C33}|DesktopApss\\DesktopApss.csproj|solutionrelative:desktopapss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Qu\u1EA3n l\u00FD kh\u00E1ch h\u00E0ng.cs [Design]",
+              "DocumentMoniker": "D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\DesktopApss\\Qu\u1EA3n l\u00FD kh\u00E1ch h\u00E0ng.cs",
+              "RelativeDocumentMoniker": "DesktopApss\\Qu\u1EA3n l\u00FD kh\u00E1ch h\u00E0ng.cs",
+              "ToolTip": "D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\DesktopApss\\DesktopApss\\Qu\u1EA3n l\u00FD kh\u00E1ch h\u00E0ng.cs [Design]",
+              "RelativeToolTip": "..\\..\\DesktopApss\\DesktopApss\\Qu\u1EA3n l\u00FD kh\u00E1ch h\u00E0ng.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:18:39.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\DesktopApss\\Resources\\Utilities.cs",
+              "RelativeDocumentMoniker": "DesktopApss\\Resources\\Utilities.cs",
+              "ToolTip": "D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\DesktopApss\\Resources\\Utilities.cs",
+              "RelativeToolTip": "DesktopApss\\Resources\\Utilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:07:42.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmBangDia.cs [Design]",
+              "DocumentMoniker": "D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\DesktopApss\\frmBangDia.cs",
+              "RelativeDocumentMoniker": "DesktopApss\\frmBangDia.cs",
+              "ToolTip": "D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\DesktopApss\\DesktopApss\\frmBangDia.cs [Design]",
+              "RelativeToolTip": "..\\..\\DesktopApss\\DesktopApss\\frmBangDia.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:18:51.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmAD.cs",
+              "DocumentMoniker": "D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\DesktopApss\\FrmAD.cs",
+              "RelativeDocumentMoniker": "DesktopApss\\FrmAD.cs",
+              "ToolTip": "D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\DesktopApss\\FrmAD.cs",
+              "RelativeToolTip": "DesktopApss\\FrmAD.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAQwJQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:01:19.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmAD.cs [Design]",
+              "DocumentMoniker": "D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\DesktopApss\\FrmAD.cs",
+              "RelativeDocumentMoniker": "DesktopApss\\FrmAD.cs",
+              "ToolTip": "D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\DesktopApss\\FrmAD.cs [Design]",
+              "RelativeToolTip": "DesktopApss\\FrmAD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:55:41.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Qu\u1EA3n l\u00FD kho.cs",
+              "DocumentMoniker": "D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\DesktopApss\\Qu\u1EA3n l\u00FD kho.cs",
+              "RelativeDocumentMoniker": "DesktopApss\\Qu\u1EA3n l\u00FD kho.cs",
+              "ToolTip": "D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\DesktopApss\\Qu\u1EA3n l\u00FD kho.cs",
+              "RelativeToolTip": "DesktopApss\\Qu\u1EA3n l\u00FD kho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:33:41.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Qu\u1EA3n l\u00FD kho.cs [Design]",
+              "DocumentMoniker": "D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\DesktopApss\\Qu\u1EA3n l\u00FD kho.cs",
+              "RelativeDocumentMoniker": "DesktopApss\\Qu\u1EA3n l\u00FD kho.cs",
+              "ToolTip": "D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\DesktopApss\\Qu\u1EA3n l\u00FD kho.cs [Design]",
+              "RelativeToolTip": "DesktopApss\\Qu\u1EA3n l\u00FD kho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:32:17.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Chi ti\u1EBFt ho\u00E1 \u0111\u01A1n.cs",
+              "DocumentMoniker": "D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\DesktopApss\\Chi ti\u1EBFt ho\u00E1 \u0111\u01A1n.cs",
+              "RelativeDocumentMoniker": "DesktopApss\\Chi ti\u1EBFt ho\u00E1 \u0111\u01A1n.cs",
+              "ToolTip": "D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\DesktopApss\\Chi ti\u1EBFt ho\u00E1 \u0111\u01A1n.cs",
+              "RelativeToolTip": "DesktopApss\\Chi ti\u1EBFt ho\u00E1 \u0111\u01A1n.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:27:10.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Qu\u1EA3n l\u00FD nh\u00E2n vi\u00EAn.cs",
+              "DocumentMoniker": "D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\DesktopApss\\Qu\u1EA3n l\u00FD nh\u00E2n vi\u00EAn.cs",
+              "RelativeDocumentMoniker": "DesktopApss\\Qu\u1EA3n l\u00FD nh\u00E2n vi\u00EAn.cs",
+              "ToolTip": "D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\DesktopApss\\Qu\u1EA3n l\u00FD nh\u00E2n vi\u00EAn.cs",
+              "RelativeToolTip": "DesktopApss\\Qu\u1EA3n l\u00FD nh\u00E2n vi\u00EAn.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAqwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T12:31:42.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Chi ti\u1EBFt ho\u00E1 \u0111\u01A1n.cs [Design]",
+              "DocumentMoniker": "D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\DesktopApss\\Chi ti\u1EBFt ho\u00E1 \u0111\u01A1n.cs",
+              "RelativeDocumentMoniker": "DesktopApss\\Chi ti\u1EBFt ho\u00E1 \u0111\u01A1n.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\DesktopApss\\DesktopApss\\Chi ti\u1EBFt ho\u00E1 \u0111\u01A1n.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T12:21:08.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmBangDia.cs",
+              "DocumentMoniker": "D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\DesktopApss\\frmBangDia.cs",
+              "RelativeDocumentMoniker": "DesktopApss\\frmBangDia.cs",
+              "ToolTip": "D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\DesktopApss\\frmBangDia.cs",
+              "RelativeToolTip": "DesktopApss\\frmBangDia.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAwFUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T05:52:28.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\DesktopApss\\Program.cs",
+              "RelativeDocumentMoniker": "DesktopApss\\Program.cs",
+              "ToolTip": "D:\\BT_QLB\u0103ng \u0111\u0129a\\1\\2\\DesktopApss\\DesktopApss\\Program.cs",
+              "RelativeToolTip": "DesktopApss\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T04:34:17.634Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
